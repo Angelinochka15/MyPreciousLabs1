@@ -1,0 +1,14 @@
+ body{
+ 	background-color: #D3D3D3;
+    border: 2px solid #BEBEBE;
+    padding: 20px;
+    width: 650px;
+    height: 880px;
+	}
+.fig {
+    text-align: center;
+    color: #696969;
+	}
+img{
+    border: 2px solid #696969;
+	}
