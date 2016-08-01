@@ -1,0 +1,14 @@
+
+.fig {
+    text-align: center;
+    color: #696969;
+}
+
+img{
+    border: 2px solid #696969;
+}
+
+.wrapper {
+    width: 450px;
+    margin: 0 auto;
+}
